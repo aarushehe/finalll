@@ -1,4 +1,8 @@
-opencv-python
+opencv-python 
 mediapipe 
+deepface 
+dlib 
+imutils 
+scipy 
+pandas 
 numpy
-deepface
